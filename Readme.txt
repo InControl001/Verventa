@@ -1,1 +1,1 @@
-**** ---This is a beginner course for GitHub
+**** --- Repo for Verventa resources
